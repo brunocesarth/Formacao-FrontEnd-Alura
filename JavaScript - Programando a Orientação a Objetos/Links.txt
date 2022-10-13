@@ -1,0 +1,5 @@
+Regex - https://www.regular-expressions.info/refquick.html
+
+npm/Package Json - https://docs.npmjs.com/cli/v8/configuring-npm/package-json
+
+npm/Scripts - https://docs.npmjs.com/cli/v8/using-npm/scripts
